@@ -1,0 +1,9 @@
+LAB - 2 -> 10-07-2026
+
+Learnt Basic syntaxes of js...
+
+Learnt how to log into console and how to write into DOCUMENT (html/webpage) from scripts ..(<SCRIPT>)...
+
+CREATED A BASIC ARITMETIC SYSTEM, which can perform ADDITION, SUBTRACTION, MULTIPLICATION, DIVISION operations..
+-> dynamic input, types of variables, function calling, values passing ...
+
